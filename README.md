@@ -3,6 +3,10 @@
 A fun command-line game written in **Python**, where the program randomly selects a number within a user-defined range — and the player must guess it!  
 
 The game provides feedback (“Too High” or “Too Low”), tracks your remaining chances, and displays the number of attempts taken to guess correctly.  
+---
+## Final result:
+
+[Screencast_20251109_230315.webm](https://github.com/user-attachments/assets/2d2c8a28-9622-4497-a0b9-c0be3549a6ab)
 
 ---
 
